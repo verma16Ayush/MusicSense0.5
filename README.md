@@ -1,5 +1,3 @@
-# MusicSense0.5 \n
-audio fingerprinting using python\n
-make sure you have ffmpeg or god save you.\n
-\n
-later idiots
+# MusicSense0.5
+audio fingerprinting using python
+make sure you have ffmpeg.
